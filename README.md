@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
   - ***04_sequence_clf_cluster_label.ipynb*** our NLP model based on character of LaTeX (GPU)
   - ***05_test_image_generation_cluster.ipynb*** convert LaTeX equations into images and resizing
   - ***05_img_filtering_invalid.ipynb*** filter some failed/invalid images
-  - ***05_cv_clf.ipynb our CV model based on images (GPU)
+  - ***05_cv_clf.ipynb our CV model based on images*** (GPU)
   
 Other Notebooks
 -------
